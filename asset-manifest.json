@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/color-generator/static/css/main.29fb400f.chunk.css",
-    "main.js": "/color-generator/static/js/main.7c89a1b0.chunk.js",
-    "main.js.map": "/color-generator/static/js/main.7c89a1b0.chunk.js.map",
+    "main.css": "/color-generator/static/css/main.9462f35b.chunk.css",
+    "main.js": "/color-generator/static/js/main.26ed6ff0.chunk.js",
+    "main.js.map": "/color-generator/static/js/main.26ed6ff0.chunk.js.map",
     "runtime-main.js": "/color-generator/static/js/runtime-main.4bf64a9c.js",
     "runtime-main.js.map": "/color-generator/static/js/runtime-main.4bf64a9c.js.map",
     "static/js/2.3d70ca9c.chunk.js": "/color-generator/static/js/2.3d70ca9c.chunk.js",
     "static/js/2.3d70ca9c.chunk.js.map": "/color-generator/static/js/2.3d70ca9c.chunk.js.map",
     "index.html": "/color-generator/index.html",
-    "static/css/main.29fb400f.chunk.css.map": "/color-generator/static/css/main.29fb400f.chunk.css.map",
+    "static/css/main.9462f35b.chunk.css.map": "/color-generator/static/css/main.9462f35b.chunk.css.map",
     "static/js/2.3d70ca9c.chunk.js.LICENSE.txt": "/color-generator/static/js/2.3d70ca9c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4bf64a9c.js",
     "static/js/2.3d70ca9c.chunk.js",
-    "static/css/main.29fb400f.chunk.css",
-    "static/js/main.7c89a1b0.chunk.js"
+    "static/css/main.9462f35b.chunk.css",
+    "static/js/main.26ed6ff0.chunk.js"
   ]
 }
