@@ -11,10 +11,11 @@ function App() {
 	// This all(10) means 'get 10 lighter shades and 10 darker'
 	// We can change it to 20 (get 5 lighter and 5 darker)
 	// Or 1 (get 100 lighter and 100 darker shades)
-	// It is a percentage: 10 = 1/10; 20 = 1/5; 1 =  1/100
+	// It is a percentage: 10 = 1/10; 20 = 1/5; 1 = 1/100
 
 	const handleSubmit = e => {
 		e.preventDefault();
+		setError(false);
 
 		try {
 			let colors = new Values(color).all(10)

@@ -181,6 +181,11 @@ input {
 }
 input.error {
   border: 2px solid var(--clr-red-dark);
+  outline: none;
+}
+input.error:focus {
+  border: 2px solid var(--clr-red-dark);
+  outline: none;
 }
 .colors {
   min-height: calc(100vh - 100px);
